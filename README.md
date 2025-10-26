@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a Computer Science student passionate about Data Science and AI. I love exploring new technologies and working on real-world projects!<br><br>📚 What I'm Learning:<br>Data Science & Machine Learning<br>DSA (Data Structures & Algorithms)<br><br>🤝 Looking to Collaborate On:<br>Beginner-friendly ML & AI projects<br>Open-source contributions<br><br>💡 Looking for Help With:<br>Improving my Data Science skills<br>Finding internship opportunities<br>Learning better coding practices<br><br>⚡ Fun Fact:<br>I enjoy solving real-world problems with code and always love learning something new!<br><br>
+👋 Hi! I'm a Computer Science student passionate about Data Science and AI. I love exploring new technologies and working on real-world projects!<br><br>📚 What I'm Learning:<br>Data Science & Machine Learning<br>DSA (Data Structures & Algorithms)<br><br>🤝 Looking to Collaborate On:<br>ML & AI projects<br>Open-source contributions<br><br>💡 Looking for Help With:<br>Improving my Data Science skills<br>Finding internship opportunities<br>Learning better coding practices<br><br>⚡ Fun Fact:<br>I enjoy solving real-world problems with code and always love learning something new!<br><br>
 
 
 ## 🌐 Socials:
