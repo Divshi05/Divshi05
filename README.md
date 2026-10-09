@@ -1,21 +1,97 @@
-# 💫 About Me:
-👋 Hi! I'm a Computer Science student passionate about Data Science and AI. I love exploring new technologies and working on real-world projects!<br><br>📚 What I'm Learning:<br>Data Science & Machine Learning<br>DSA (Data Structures & Algorithms)<br><br>🤝 Looking to Collaborate On:<br>ML & AI projects<br>Open-source contributions<br><br>💡 Looking for Help With:<br>Improving my Data Science skills<br>Finding internship opportunities<br>Learning better coding practices<br><br>⚡ Fun Fact:<br>I enjoy solving real-world problems with code and always love learning something new!<br><br>
+# Hi, I'm Divyanshi Arora 👋
 
+### Software Engineer | Data Analytics | Aspiring Data Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanshi-arora2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardivyaora5353@gmail.com) 
+I'm a Computer Science graduate working at the intersection of software engineering and data. My interests include building backend APIs, automating data workflows, transforming raw data into meaningful insights, and designing reliable data pipelines.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divshi05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divshi05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divshi05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I have experience working with Python, SQL, PostgreSQL, data cleaning, Excel automation, Power BI, and backend development. I'm currently strengthening my data engineering skills, with a focus on ETL pipelines, data warehousing, data modeling, and modern data platforms.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Divshi05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Databases & Data Warehousing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Data Engineering Tools — Learning & Exploration
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Projects
+
+- **[SQL Data Analysis](https://github.com/Divshi05/SQL_Data_Analysis)** — SQL-based data exploration and analytical problem-solving.
+
+- **[Fraud Detection](https://github.com/Divshi05)** — Machine learning project focused on identifying potentially fraudulent transactions.
+
+- **[Parkinson's Disease Detection](https://github.com/Divshi05)** — Machine learning techniques for disease detection.
+
+- **[UrbanSound8K Audio Classification](https://github.com/Divshi05)** — Audio classification using Python and machine learning.
+
+Explore my repositories for more projects and implementations.
+
+## 🌱 Currently Focusing On
+
+- Writing efficient SQL queries and optimizing database operations.
+- Building automated ETL pipelines with Python and SQL.
+- Learning data modeling and data warehousing concepts.
+- Exploring workflow orchestration with Apache Airflow.
+- Understanding distributed data processing with Apache Spark.
+- Exploring dbt, Databricks, and Snowflake.
+- Improving backend architecture, API design, and database integration.
+
+## 🤝 Areas of Interest
+
+- Data Engineering & Analytics Engineering
+- ETL/ELT Pipeline Development
+- Data Warehousing & Data Modeling
+- Business Intelligence & Data Analytics
+- Backend Engineering & API Development
+- Open-Source Contributions
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshi-arora2003/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardivyaora5353@gmail.com)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Divshi05&theme=dark&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Divshi05&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divshi05&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divshi05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building practical solutions, one project at a time.*
