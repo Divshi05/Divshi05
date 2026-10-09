@@ -2,9 +2,9 @@
 
 ### Software Engineer | Data Analytics | Aspiring Data Engineer
 
-I'm a Computer Science graduate working at the intersection of software engineering and data. My interests include building backend APIs, automating data workflows, transforming raw data into meaningful insights, and designing reliable data pipelines.
+I'm a Computer Science graduate working at the intersection of software engineering and data. I enjoy building backend APIs, automating data workflows, transforming raw data into meaningful insights, and solving real-world problems through code.
 
-I have experience working with Python, SQL, PostgreSQL, data cleaning, Excel automation, Power BI, and backend development. I'm currently strengthening my data engineering skills, with a focus on ETL pipelines, data warehousing, data modeling, and modern data platforms.
+My experience includes Python, SQL, PostgreSQL, data cleaning, Excel automation, Power BI, and backend development. I'm currently expanding my knowledge of data engineering, focusing on ETL pipelines, data modeling, data warehousing, and modern data platforms.
 
 ## 💻 Tech Stack
 
@@ -15,19 +15,19 @@ I have experience working with Python, SQL, PostgreSQL, data cleaning, Excel aut
 ### Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Databases & Data Warehousing
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Data Engineering Tools — Learning & Exploration
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -41,42 +41,44 @@ I have experience working with Python, SQL, PostgreSQL, data cleaning, Excel aut
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms
+### Developer Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🚀 Projects
 
-- **[SQL Data Analysis](https://github.com/Divshi05/SQL_Data_Analysis)** — SQL-based data exploration and analytical problem-solving.
+- **[SQL Data Analysis](https://github.com/Divshi05/SQL_Data_Analysis)** — Data exploration and analytical problem-solving using SQL.
 
-- **[Fraud Detection](https://github.com/Divshi05)** — Machine learning project focused on identifying potentially fraudulent transactions.
+- **Fraud Detection** — Machine learning project focused on identifying potentially fraudulent transactions.
 
-- **[Parkinson's Disease Detection](https://github.com/Divshi05)** — Machine learning techniques for disease detection.
+- **Parkinson's Disease Detection** — Machine learning techniques applied to disease detection.
 
-- **[UrbanSound8K Audio Classification](https://github.com/Divshi05)** — Audio classification using Python and machine learning.
+- **UrbanSound8K Audio Classification** — Audio classification using Python and machine learning.
 
 Explore my repositories for more projects and implementations.
 
 ## 🌱 Currently Focusing On
 
-- Writing efficient SQL queries and optimizing database operations.
-- Building automated ETL pipelines with Python and SQL.
-- Learning data modeling and data warehousing concepts.
-- Exploring workflow orchestration with Apache Airflow.
-- Understanding distributed data processing with Apache Spark.
-- Exploring dbt, Databricks, and Snowflake.
-- Improving backend architecture, API design, and database integration.
+- Advanced SQL and query optimization
+- Python for data processing and automation
+- ETL/ELT pipeline development
+- Data modeling and data warehousing
+- Workflow orchestration and pipeline scheduling
+- Distributed data processing with Apache Spark
+- Exploring modern data platforms and transformation tools
+- Backend architecture, REST APIs, and database integration
 
 ## 🤝 Areas of Interest
 
-- Data Engineering & Analytics Engineering
+- Data Engineering
+- Analytics Engineering
 - ETL/ELT Pipeline Development
 - Data Warehousing & Data Modeling
-- Business Intelligence & Data Analytics
-- Backend Engineering & API Development
+- Data Analytics & Business Intelligence
+- Backend Engineering
 - Open-Source Contributions
 
 ## 📫 Connect With Me
@@ -84,14 +86,6 @@ Explore my repositories for more projects and implementations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshi-arora2003/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardivyaora5353@gmail.com)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Divshi05&theme=dark&hide_border=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Divshi05&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divshi05&theme=dark&hide_border=true&layout=compact)
-
 ---
 
-*Building practical solutions, one project at a time.*
+*Building practical solutions, learning continuously, and improving one project at a time.*
